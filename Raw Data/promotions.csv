@@ -1,0 +1,34 @@
+promotion_id,start_date,end_date,discount_percentage,promotion_type,promotion_name
+1,13 April 2021,12 May 2021,25,Ramadan,Ramadan Sale 2021
+2,13 May 2021,15 May 2021,20,Eid,Eid Al Fitr Sale 2021
+3,20 July 2021,22 July 2021,25,Eid,Eid Al Adha Sale 2021
+4,01 January 2021,28 February 2021,15,DSF,Dubai Shopping Festival 2021
+5,26 November 2021,28 November 2021,30,Black Friday,Black Friday 2021
+6,01 December 2021,03 December 2021,20,National Day,UAE National Day 2021
+7,01 July 2021,31 August 2021,10,Summer Sale,Summer Sale 2021
+8,02 April 2022,01 May 2022,25,Ramadan,Ramadan Sale 2022
+9,02 May 2022,04 May 2022,25,Eid,Eid Al Fitr Sale 2022
+10,10 July 2022,12 July 2022,25,Eid,Eid Al Adha Sale 2022
+11,01 January 2022,28 February 2022,25,DSF,Dubai Shopping Festival 2022
+12,25 November 2022,27 November 2022,35,Black Friday,Black Friday 2022
+13,01 December 2022,03 December 2022,10,National Day,UAE National Day 2022
+14,01 July 2022,31 August 2022,10,Summer Sale,Summer Sale 2022
+15,23 March 2023,20 April 2023,20,Ramadan,Ramadan Sale 2023
+16,21 April 2023,23 April 2023,25,Eid,Eid Al Fitr Sale 2023
+17,29 June 2023,01 July 2023,20,Eid,Eid Al Adha Sale 2023
+18,01 January 2023,28 February 2023,15,DSF,Dubai Shopping Festival 2023
+19,24 November 2023,26 November 2023,35,Black Friday,Black Friday 2023
+20,01 December 2023,03 December 2023,15,National Day,UAE National Day 2023
+21,01 July 2023,31 August 2023,20,Summer Sale,Summer Sale 2023
+22,11 March 2024,09 April 2024,15,Ramadan,Ramadan Sale 2024
+23,10 April 2024,12 April 2024,20,Eid,Eid Al Fitr Sale 2024
+24,17 June 2024,19 June 2024,30,Eid,Eid Al Adha Sale 2024
+25,01 January 2024,28 February 2024,15,DSF,Dubai Shopping Festival 2024
+26,29 November 2024,01 December 2024,35,Black Friday,Black Friday 2024
+27,01 December 2024,03 December 2024,15,National Day,UAE National Day 2024
+28,01 July 2024,31 August 2024,10,Summer Sale,Summer Sale 2024
+29,01 March 2025,30 March 2025,30,Ramadan,Ramadan Sale 2025
+30,31 March 2025,02 April 2025,30,Eid,Eid Al Fitr Sale 2025
+31,07 June 2025,09 June 2025,25,Eid,Eid Al Adha Sale 2025
+32,01 January 2025,28 February 2025,15,DSF,Dubai Shopping Festival 2025
+33,01 July 2025,31 August 2025,10,Summer Sale,Summer Sale 2025
